@@ -32,5 +32,5 @@ def sample_responses(input_text):
             count = count + 1
         return str(news_1)
     if pol<0:
-        return "CHii gande insaan"
+        return "Sorru No offensive language !!"
     return "I dont get you !!"
